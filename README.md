@@ -1,2 +1,3 @@
 # Letter-Checker
-Script to check if a letter is a vowel or character
+A short script I made to determine if a letter a user inputs is a vowel or consonant
+This is the final problem in the Python Activity Workbook
